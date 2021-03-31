@@ -1,0 +1,33 @@
+Checking Account Summary
+~~~~~~~~~~~~~~~~~~~~~~~~
+Starting Balance: +54041
+
+Date: 03/20/2021
+Description: Cricket Paycheck
+Amount: +41224
+Current Balance: +95265
+
+Date: 03/23/2021
+Description: Lotus Lunch Date
+Amount: -4466
+Current Balance: +90799
+
+Date: 03/25/2021
+Description: Tabletop Titans Sub
+Amount: -499
+Current Balance: +90300
+
+Date: 03/26/2021
+Description: Hobby Lobby Gifts
+Amount: -3561
+Current Balance: +86739
+
+Final Balance: +86739
+~~~~~~~~~~~~~~~~~~~~~~~~
+How are your finances???
+
+
+C:\Users\BURTO\Desktop\Microsoft Project 2019\Project32_VS2019\Debug\Project.exe (process 19820) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+ 

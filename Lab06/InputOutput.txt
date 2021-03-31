@@ -1,0 +1,60 @@
+INPUT/OUTPUT
+
+Please Enter Name for the First Person: Jonah
+Number of Transactions: 5
+Please Enter Name for the Second Person: Kirsten
+Number of Transactions: 10
+
+
+Press any key to continue...
+
+Jonah's Transactions.
+Transaction 1: 19
+Transaction 2: 49
+Transaction 3: 9
+Transaction 4: 7
+Transaction 5: 24
+
+Kirsten's Transactions.
+Transaction 1: 45
+Transaction 2: 9
+Transaction 3: 78
+Transaction 4: 3
+Transaction 5: 71
+Transaction 6: 72
+Transaction 7: 65
+Transaction 8: 44
+Transaction 9: 44
+Transaction 10: 6
+
+
+Press any key to continue... 
+
+Transaction Summary Report
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: Jonah
+Transactions.
+257: 19
+2: 49
+3: 9
+4: 7
+5: 24
+Total Amount Spent: 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: Kirsten
+Transactions.
+1: 45
+2: 9
+3: 78
+4: 3
+5: 71
+6: 72
+7: 65
+8: 44
+9: 44
+10: 6
+Total Amount Spent: 437
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Press any key to continue... 

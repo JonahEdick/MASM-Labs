@@ -1,0 +1,19 @@
+Enter Number of Transactions: 4
+Enter Starting Balance: 54041
+
+Enter Transaction Date: 03/20/2021
+Enter Transaction Description: Cricket Paycheck
+Enter Transaction Amount(In Pennies): 41224
+
+Enter Transaction Date: 03/23/2021
+Enter Transaction Description: Lotus Lunch Date
+Enter Transaction Amount(In Pennies): -4466
+
+Enter Transaction Date: 03/25/2021
+Enter Transaction Description: Tabletop Titans Sub
+Enter Transaction Amount(In Pennies): -499
+
+Enter Transaction Date: 03/26/2021
+Enter Transaction Description: Hobby Lobby Gifts
+Enter Transaction Amount(In Pennies): -3561
+

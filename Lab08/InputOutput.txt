@@ -1,0 +1,55 @@
+INPUT/OUTPUT
+
+Please Enter Name for the First Person: Jonah
+
+Jonah's Transactions.
+Transaction 1: 32
+Would you like to input another transaction (Y/N): y
+Transaction 2: 0
+Cannot Enter A $0.00 Transaction.
+Transaction 2: -43
+Would you like to input another transaction (Y/N): f
+Please Put In A Valid Response.
+Would you like to input another transaction (Y/N): y
+Transaction 3: 12
+Would you like to input another transaction (Y/N): N
+
+Press any key to continue...
+
+Please Enter Name for the Second Person: Jefferson
+
+Jefferson's Transactions.
+Transaction 1: 432
+Would you like to input another transaction (Y/N): Y
+Transaction 2: 0
+Cannot Enter A $0.00 Transaction.
+Transaction 2: -12
+Would you like to input another transaction (Y/N): y
+Transaction 3: -98
+Would you like to input another transaction (Y/N): N
+
+Press any key to continue... 
+
+Transaction Summary Report
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: Jonah
+Transactions.
+1: 32
+2: 43
+3: 12
+Total Amount Spent: 87
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name: Jefferson
+Transactions.
+1: 432
+2: 12
+3: 98
+Total Amount Spent: 542
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Press any key to continue...
+C:\Users\BURTO\Desktop\Microsoft Project 2019\Project32_VS2019\Debug\Project.exe (process 22292) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+ 
